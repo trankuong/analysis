@@ -1,5 +1,7 @@
 predictiveCapability
 ====================
+This program was made a while ago, and I just decided to upload it
+Very simple, but fun to write
 
 To use the program, run the main file.
 You will be prompted with a prompt asking what you believe
